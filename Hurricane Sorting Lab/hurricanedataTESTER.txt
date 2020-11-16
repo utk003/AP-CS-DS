@@ -1,0 +1,6 @@
+1980 Aug	945	100	Allen
+1983 Aug	962	100	Alicia
+1984 Sep	949	100	Diana
+1985 Jul	1002	65	Bob
+1985 Aug	987	80	Danny
+1985 Sep	959	100	Elena
